@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sorting-Visualizer/static/css/main.8d0abdfa.chunk.css",
+    "main.js": "/Sorting-Visualizer/static/js/main.d667daf0.chunk.js",
+    "main.js.map": "/Sorting-Visualizer/static/js/main.d667daf0.chunk.js.map",
+    "runtime-main.js": "/Sorting-Visualizer/static/js/runtime-main.2f0675f6.js",
+    "runtime-main.js.map": "/Sorting-Visualizer/static/js/runtime-main.2f0675f6.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Sorting-Visualizer/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.62da7346.chunk.js": "/Sorting-Visualizer/static/js/2.62da7346.chunk.js",
+    "static/js/2.62da7346.chunk.js.map": "/Sorting-Visualizer/static/js/2.62da7346.chunk.js.map",
+    "index.html": "/Sorting-Visualizer/index.html",
+    "precache-manifest.10ea70b895ab3bf09e1b2f7cb7856182.js": "/Sorting-Visualizer/precache-manifest.10ea70b895ab3bf09e1b2f7cb7856182.js",
+    "service-worker.js": "/Sorting-Visualizer/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Sorting-Visualizer/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.8d0abdfa.chunk.css.map": "/Sorting-Visualizer/static/css/main.8d0abdfa.chunk.css.map",
+    "static/js/2.62da7346.chunk.js.LICENSE.txt": "/Sorting-Visualizer/static/js/2.62da7346.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f0675f6.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.62da7346.chunk.js",
+    "static/css/main.8d0abdfa.chunk.css",
+    "static/js/main.d667daf0.chunk.js"
+  ]
+}
