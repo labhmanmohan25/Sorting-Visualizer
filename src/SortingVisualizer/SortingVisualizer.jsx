@@ -199,7 +199,7 @@ export default class SortingVisualizer extends React.Component {
   }
 
   heapSort() {
-    // We leave it as an exercise to the viewer of this code to implement this method.
+    
   }
 
   render() {
@@ -219,7 +219,7 @@ export default class SortingVisualizer extends React.Component {
         <button onClick={() => this.resetArray()}>Generate New Array</button>
         <button onClick={() => this.mergeSort()}>Merge Sort</button>
         <button onClick={() => this.quickSort()}>Quick Sort</button>
-        <button onClick={() => this.heapSort()}>Heap Sort</button>
+//      <button onClick={() => this.heapSort()}>Heap Sort</button>
         <button onClick={() => this.bubbleSort()}>Bubble Sort</button>
       </div>
     );
